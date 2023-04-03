@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDA_V3/1.0.0": {
+        "runtime": {
+          "DDA_V3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDA_V3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
